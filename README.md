@@ -9,7 +9,7 @@ I worked on this project to practice editing starter code to make the site seman
 ## Table of Contents (Optional)
 
 - [Installation](#installation)
-- [Screenshots](#usage)
+- [Screenshots](#screenshots)
 
 ## Installation
 
